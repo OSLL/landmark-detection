@@ -1,4 +1,5 @@
 # landmark-detection
 Qr-like colored landmark detection algorithm
 
-Coming soon...
+Files for FRUCT17 Paper
+
